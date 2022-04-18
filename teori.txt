@@ -1,0 +1,5 @@
+#Susunan bilang-bilangan dalam bentuk persegi panjang yang disusun berdasarkan baris dan kolom.
+# Sering dikatakan bahwa matriks adalah tabel atau array berdimensi 2.Tetapi patut di perhatikan,
+bahwa pengertian “dimensi 2”, “baris dan kolom” adalah dalam pemikiran kita.Pengaturan letak elemen 
+matriks dalam memori komputer selalu tetap sebagai deretan sel “linier”.Pengertian 2 dimensi ini hanya 
+untuk mempermudah pemrograman dalam mendesain programnya.Maka matriks adalah salah satu contoh struktur data “lojik”
